@@ -7,7 +7,7 @@ An api based architecture based on microservices architecture principles
 * ...
 
 ## Choreography or orchestration
-Choreography vs orchestration
+API based integration can either be choreographed vs orchestrated.
 
 ## Topic queues
 Event driven?
@@ -16,8 +16,17 @@ Dead letter queues
 ## Coupling
 Temporal coupling
 
+## Flavours
+### Restful
+### SOAP
+### GraphQl
+### GRPC
+
 ## Implications
 ### Advantages
-### Drawbacks
+Simple to implement
+Abstractions hides the imeplementation
 
+### Drawbacks
+The achitecture tend to lead to point to point integrations that can be hard to manage.
 
