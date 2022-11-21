@@ -8,4 +8,4 @@
 ## System of records
 
 ### TODO
-[API led integration](https://github.com/Pettersson-dev/Integration-architecture/edit/main/api-integration.md)
+[API led integration](https://github.com/Pettersson-dev/Integration-architecture/blob/main/api-integration.md)
