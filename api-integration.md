@@ -84,7 +84,3 @@ An API-based integration architecture, aligned with microservices architecture p
 
 6. **Minimize Coupling**  
    - Favor asynchronous communication where possible to reduce dependencies and improve resilience.  
-
----  
-
-This architecture framework ensures modern, scalable, and maintainable integrations, supporting an organization's growth while minimizing technical debt.
